@@ -1,0 +1,13 @@
+.Container {
+  margin-top: 50px;
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 50px;
+  justify-content: center;
+}
+.button-container-create-class {
+  margin-top: 5px;
+  display: flex;
+  justify-content: center;
+}
+
